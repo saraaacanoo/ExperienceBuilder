@@ -1,0 +1,2977 @@
+{
+  "pages": {
+    "page_2": {
+      "id": "page_2",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_1"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Página principal",
+      "header": true,
+      "footer": false,
+      "bodyBackgroundColor": "#363062"
+    },
+    "page_10": {
+      "id": "page_10",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_5"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "El Tiempo",
+      "header": true,
+      "footer": false,
+      "bodyBackgroundColor": "#363062"
+    },
+    "page_20": {
+      "id": "page_20",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_39"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Reseñas",
+      "header": true,
+      "footer": false,
+      "bodyBackgroundColor": "#363062"
+    },
+    "page_21": {
+      "id": "page_21",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_40"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "App",
+      "header": true,
+      "footer": false,
+      "bodyBackgroundColor": "#363062"
+    },
+    "page_22": {
+      "id": "page_22",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_41"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Guía",
+      "header": true,
+      "footer": false,
+      "bodyBackgroundColor": "#363062"
+    }
+  },
+  "layouts": {
+    "layout_1": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_4",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_5": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_60",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_15": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_3",
+          "bbox": {
+            "left": "0.0%",
+            "right": "90.5%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "9.5%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "STRETCH",
+              "height": "STRETCH",
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": false,
+            "effect": {
+              "SCROLL_IN": {
+                "type": "NONE",
+                "option": {
+                  "direction": null
+                }
+              }
+            },
+            "lockLayout": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_55",
+          "bbox": {
+            "right": "2.9%",
+            "bottom": "18.6%",
+            "width": "10.8%",
+            "height": "61.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "AUTO",
+              "height": "AUTO",
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_58",
+          "bbox": {
+            "left": "40.7%",
+            "right": "31.2%",
+            "top": "19.6%",
+            "bottom": "20.2%",
+            "width": "28.1%",
+            "height": "60.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_16": {
+      "content": {},
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_17": {
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_37",
+          "bbox": {
+            "left": "0.0%",
+            "right": "76.6%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "23.4%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "lockParent": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_52",
+          "bbox": {
+            "left": "79.1%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "42.3%",
+            "width": "20.9%",
+            "height": "57.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockLayout": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "2",
+        "3"
+      ]
+    },
+    "layout_25": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_21",
+          "bbox": {
+            "left": "0.0%",
+            "right": "49.5%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "50.5%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_22",
+          "bbox": {
+            "left": "52.5%",
+            "right": "4.1%",
+            "top": "5.1%",
+            "bottom": "83.0%",
+            "width": "43.3%",
+            "height": "11.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_23",
+          "bbox": {
+            "left": "53.7%",
+            "right": "3.0%",
+            "top": "13.3%",
+            "bottom": "1.6%",
+            "width": "43.3%",
+            "height": "85.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_61",
+          "bbox": {
+            "left": "62.0%",
+            "right": "11.5%",
+            "top": "90.0%",
+            "bottom": "1.5%",
+            "width": "26.5%",
+            "height": "8.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_29": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_36",
+          "bbox": {
+            "width": "232px",
+            "height": "88.00px"
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_20",
+          "bbox": {
+            "width": "300px",
+            "height": "88px"
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_44",
+          "bbox": {
+            "width": "220px",
+            "height": "88.00px"
+          },
+          "setting": {
+            "effect": {
+              "SCROLL_IN": {
+                "type": "NONE",
+                "option": {
+                  "direction": null
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_48",
+          "bbox": {
+            "width": "220px",
+            "height": "88.00px"
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_71",
+          "bbox": {
+            "width": "220px",
+            "height": "88.00px"
+          }
+        }
+      },
+      "type": "COLUMN",
+      "label": "Default",
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "setting": {
+        "space": 50,
+        "padding": {
+          "number": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "unit": "px"
+        }
+      }
+    },
+    "layout_31": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_41",
+          "bbox": {
+            "left": "0.0%",
+            "right": "45.6%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "54.4%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_42",
+          "bbox": {
+            "left": "55.7%",
+            "right": "1.3%",
+            "top": "1.9%",
+            "bottom": "90.5%",
+            "width": "43.0%",
+            "height": "7.6%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_43",
+          "bbox": {
+            "left": "58.6%",
+            "right": "4.1%",
+            "top": "11.6%",
+            "bottom": "2.7%",
+            "width": "37.3%",
+            "height": "85.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_67",
+          "bbox": {
+            "left": "59.2%",
+            "right": "4.7%",
+            "top": "87.8%",
+            "bottom": "4.1%",
+            "width": "36.0%",
+            "height": "8.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_32": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_45",
+          "bbox": {
+            "left": "0.0%",
+            "right": "44.6%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "55.4%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_46",
+          "bbox": {
+            "left": "57.2%",
+            "right": "0.0%",
+            "top": "3.7%",
+            "bottom": "89.1%",
+            "width": "42.8%",
+            "height": "7.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_47",
+          "bbox": {
+            "left": "57.1%",
+            "right": "1.6%",
+            "top": "12.7%",
+            "bottom": "1.9%",
+            "width": "41.3%",
+            "height": "85.4%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_59",
+          "bbox": {
+            "left": "59.3%",
+            "right": "3.9%",
+            "top": "90.1%",
+            "bottom": "1.9%",
+            "width": "36.8%",
+            "height": "8.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_33": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_49",
+          "bbox": {
+            "left": "0.1%",
+            "right": "42.8%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "57.1%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_50",
+          "bbox": {
+            "left": "58.1%",
+            "right": "1.1%",
+            "top": "1.3%",
+            "bottom": "87.6%",
+            "width": "40.8%",
+            "height": "11.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_51",
+          "bbox": {
+            "left": "58.1%",
+            "right": "-0.0%",
+            "top": "13.6%",
+            "bottom": "1.3%",
+            "width": "41.9%",
+            "height": "85.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_68",
+          "bbox": {
+            "left": "59.7%",
+            "right": "2.3%",
+            "top": "90.8%",
+            "bottom": "1.3%",
+            "width": "38.0%",
+            "height": "7.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_34": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_56",
+          "bbox": {},
+          "setting": {}
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_57",
+          "bbox": {},
+          "setting": {}
+        }
+      },
+      "type": "FIXED",
+      "label": "Controller layout",
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_39": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_69",
+          "bbox": {
+            "left": "0.0%",
+            "right": "54.1%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "45.9%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_70",
+          "bbox": {
+            "left": "45.9%",
+            "right": "-0.0%",
+            "top": "6.8%",
+            "bottom": "-0.0%",
+            "width": "54.1%",
+            "height": "93.2%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_80",
+          "bbox": {
+            "left": "45.9%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "93.3%",
+            "width": "54.1%",
+            "height": "6.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_40": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_75",
+          "bbox": {
+            "left": "0.0%",
+            "right": "28.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "72.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_78",
+          "bbox": {
+            "left": "72.0%",
+            "right": "-0.0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "28.0%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_41": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_73",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_42": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Map FixedLayout"
+    },
+    "layout_43": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_72",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.1%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "99.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_44": {
+      "content": {},
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": []
+    }
+  },
+  "exbVersion": "1.16.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/dark/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "MEDIUM": {
+        "width": 834,
+        "height": 1112
+      },
+      "SMALL": {
+        "width": 414,
+        "height": 736
+      },
+      "LARGE": {
+        "width": 1280,
+        "height": 1024
+      }
+    }
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_3": {
+      "uri": "widgets/common/menu/",
+      "version": "1.16.0",
+      "label": "Menú 2",
+      "config": {
+        "type": "drawer",
+        "standard": {
+          "icon": {
+            "properties": {
+              "size": 30
+            }
+          },
+          "submenuMode": "static",
+          "gap": "20px"
+        },
+        "advanced": true,
+        "paper": {
+          "bg": "#818fb4"
+        },
+        "variant": {
+          "item": {
+            "default": {
+              "bold": true,
+              "italic": false,
+              "underline": false,
+              "strike": false,
+              "bg": "#818fb4"
+            }
+          }
+        }
+      },
+      "id": "widget_3",
+      "style": {
+        "boxShadow": {
+          "presetStyle": "shadow-none"
+        }
+      }
+    },
+    "widget_4": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.16.0",
+      "label": "Mapa",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": true,
+        "initialMapDataSourceID": "dataSource_4",
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 2311162.2171545,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": -733766.8071230703,
+              "y": 4748540.371195622
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -966135.3731099444,
+            "ymin": 4617068.682545153,
+            "xmax": -501398.2411361963,
+            "ymax": 4880012.05984609
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "scaleRange": null,
+        "layoutIndex": 1
+      },
+      "id": "widget_4",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_17"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_4",
+          "mainDataSourceId": "dataSource_4"
+        }
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_20": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón Turismo ",
+      "config": {
+        "functionConfig": {
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"Turismo astronómico\""
+              }
+            ]
+          },
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_1"
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": []
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "size": "20px",
+                "color": "#f5e8c7",
+                "bold": true
+              },
+              "background": {
+                "color": "#435585",
+                "fillType": "fill"
+              },
+              "boxShadow": null
+            }
+          }
+        }
+      },
+      "id": "widget_20",
+      "useDataSourcesEnabled": true
+    },
+    "widget_21": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Imagen",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_21/1743093663218.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_21/1743093663218.jpg",
+            "fileName": "1743093663218.jpg",
+            "originalName": "52382684176_af06d7e083_o.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1743093663218",
+            "isUseCompress": false,
+            "originalWidth": 3537,
+            "originalHeight": 4951
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_21"
+    },
+    "widget_22": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto",
+      "config": {
+        "text": "<h1 style=\"text-align: center;\">Turismo Astronómico﻿</h1>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_22"
+    },
+    "widget_23": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 2",
+      "config": {
+        "text": "<h3>﻿¿Alguna vez has soñado con contemplar la inmensidad del cosmos, ver la Vía Láctea brillar con intensidad o deslumbrarte con una lluvia de estrellas?</h3><p><br></p><h6>Actualmente, las luces de las ciudades han borrado para millones de personas la posibilidad de observar las estrellas, pero aún existen lugares donde el firmamento brilla en todo su esplendor.</h6><h6><br></h6><h6>Si quieres vivir una experiencia única, <strong>Extremadura</strong> es uno de los mejores destinos de Europa para la observación del cielo nocturno. Con sus vastos paisajes naturales y <strong>cielos oscuros protegidos</strong>, esta región es un paraíso para los amantes de la astronomía. Desde el Parque Nacional de Monfragüe hasta la Sierra de Gata, aquí podrás contemplar la Vía Láctea como nunca antes.</h6>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_23"
+    },
+    "widget_36": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón Guía",
+      "config": {
+        "functionConfig": {
+          "text": "Guía",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_3"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#f5e8c7",
+                "size": "20px"
+              },
+              "background": {
+                "color": "#435585",
+                "fillType": "fill"
+              },
+              "boxShadow": null
+            }
+          }
+        }
+      },
+      "id": "widget_36"
+    },
+    "widget_37": {
+      "uri": "widgets/layout/column/",
+      "version": "1.16.0",
+      "label": "Columna",
+      "config": {
+        "space": {
+          "distance": 50,
+          "unit": "px"
+        },
+        "style": {
+          "padding": {
+            "number": [
+              0,
+              0,
+              0,
+              0
+            ],
+            "unit": "px"
+          },
+          "justifyContent": "flex-start",
+          "alignItems": "stretch"
+        }
+      },
+      "id": "widget_37",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_29"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "#435585",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_41": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Imagen 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_38/1743096137313.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_38/1743096137313.jpg",
+            "fileName": "1743096137313.jpg",
+            "originalName": "alexandra-salvado-WJ-H_ewjcU4-unsplash.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1743096137313",
+            "isUseCompress": false,
+            "originalWidth": 4018,
+            "originalHeight": 6027
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_41"
+    },
+    "widget_42": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 3",
+      "config": {
+        "text": "<h1 style=\"text-align: center;\">﻿Guía<strong><span class=\"ql-cursor\">﻿</span></strong></h1>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_42"
+    },
+    "widget_43": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 4",
+      "config": {
+        "text": "<h6><span style=\"color: rgb(255, 255, 255);\">La magia no termina al amanecer. Para que aproveches al máximo tú viaje, hemos preparado una </span><strong style=\"color: rgb(255, 255, 255);\">guía completa</strong><span style=\"color: rgb(255, 255, 255);\"> con todo lo que Extremadura tiene para ofrecer:</span></h6><p><br></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong style=\"color: rgb(255, 255, 255);\">Gastronomía Única</strong><span style=\"color: rgb(255, 255, 255);\"> : Disfruta del </span><strong style=\"color: rgb(255, 255, 255);\">jamón ibérico de bellota</strong><span style=\"color: rgb(255, 255, 255);\">, las tradicionales </span><strong style=\"color: rgb(255, 255, 255);\">migas extremeñas</strong><span style=\"color: rgb(255, 255, 255);\">, la </span><strong style=\"color: rgb(255, 255, 255);\">torta del Casar</strong><span style=\"color: rgb(255, 255, 255);\"> y una oferta vinícola excepcional.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong style=\"color: rgb(255, 255, 255);\">Patrimonio y Cultura</strong><span style=\"color: rgb(255, 255, 255);\"> : Recorre ciudades monumentales como </span><strong style=\"color: rgb(255, 255, 255);\">Mérida</strong><span style=\"color: rgb(255, 255, 255);\">, con su impresionante legado romano, o </span><strong style=\"color: rgb(255, 255, 255);\">Cáceres y Trujillo</strong><span style=\"color: rgb(255, 255, 255);\">, declaradas Patrimonio de la Humanidad.</span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><strong style=\"color: rgb(255, 255, 255);\">Naturaleza y Senderismo</strong><span style=\"color: rgb(255, 255, 255);\"> : Explora paisajes únicos en el </span><strong style=\"color: rgb(255, 255, 255);\">Geoparque Villuercas-Ibores-Jara</strong><span style=\"color: rgb(255, 255, 255);\">, el </span><strong style=\"color: rgb(255, 255, 255);\">Parque Nacional de Monfragüe</strong><span style=\"color: rgb(255, 255, 255);\"> o las </span><strong style=\"color: rgb(255, 255, 255);\">dehesas extremeñas</strong><span style=\"color: rgb(255, 255, 255);\">, hogar de una biodiversidad increíble.﻿</span></li></ol>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_43"
+    },
+    "widget_44": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón Tiempo",
+      "config": {
+        "functionConfig": {
+          "text": "El Tiempo",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_4"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#f5e8c7",
+                "size": "20px"
+              },
+              "background": {
+                "color": "#435585",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_44"
+    },
+    "widget_45": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Imagen 3",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_45/1743098045034.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_45/1743098045034.jpg",
+            "fileName": "1743098045034.jpg",
+            "originalName": "49712169226_a842dff39a_k.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1743098045034",
+            "isUseCompress": false,
+            "originalWidth": 1638,
+            "originalHeight": 2048
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_45"
+    },
+    "widget_46": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 5",
+      "config": {
+        "placeholder": "<h1>Haga doble clic para editar texto</h1>",
+        "text": "<h1 style=\"text-align: center;\">El Tiempo</h1>"
+      },
+      "id": "widget_46"
+    },
+    "widget_47": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 6",
+      "config": {
+        "text": "<h5>¿Quieres saber si esta noche el cielo estará despejado para observar las estrellas? ¿Si lloverá? o ¿Qué temperatura hará?</h5><p><br></p><h6>Nuestra nueva <strong>app del tiempo para astronomía</strong>, basada en el <strong>Living Atlas de la AEMET</strong>, te ofrece <strong>pronósticos precisos y mapas meteorológicos en tiempo real</strong> para que puedas disfrutar del cielo nocturno sin sorpresas en la provincia de Extremadura.﻿</h6>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_47"
+    },
+    "widget_48": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón App",
+      "config": {
+        "functionConfig": {
+          "text": "App",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_5"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "size": "20px",
+                "bold": true,
+                "color": "#f5e8c7"
+              },
+              "background": {
+                "color": "#435585",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_48"
+    },
+    "widget_49": {
+      "uri": "widgets/common/image/",
+      "version": "1.16.0",
+      "label": "Imagen 4",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_49/1743098738271.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_49/1743098738271.jpg",
+            "fileName": "1743098738271.jpg",
+            "originalName": "52052653002_1c47090cab_k.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1743098738271",
+            "isUseCompress": false,
+            "originalWidth": 1638,
+            "originalHeight": 2048
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_49"
+    },
+    "widget_50": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 7",
+      "config": {
+        "text": "<h1 style=\"text-align: center;\">App</h1>",
+        "placeholder": "<h1>Haga doble clic para editar texto</h1>"
+      },
+      "id": "widget_50"
+    },
+    "widget_51": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 8",
+      "config": {
+        "text": "<h6>Con nuestra <strong>app del tiempo para astronomía</strong>, tendrás acceso a <strong>reseñas de otros usuarios</strong>, donde podrás ver <strong>fotos impresionantes</strong> de cielos estrellados, leer sus <strong>opiniones</strong> y compartir tus propias experiencias. ¡Una comunidad astronómica lista para ayudarte a encontrar los mejores lugares para observar las estrellas! Pero eso no es todo. Nuestra app te permite realizar un <strong>barrido interactivo</strong> para delimitar áreas ideales para la observación astronómica, teniendo en cuenta varios factores clave: Contaminación Lumínica, Altitud, Parques Naturales o incluso cercanía a las principales carreteras.</h6><h6>¡Con nuestra app, planificar tu próxima aventura bajo las estrellas nunca fue tan fácil!</h6>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_51"
+    },
+    "widget_52": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.16.0",
+      "label": "Leyenda",
+      "config": {
+        "style": {
+          "useCustom": true
+        },
+        "cardStyle": true,
+        "cardLayout": "stack",
+        "showBaseMap": false
+      },
+      "id": "widget_52",
+      "useMapWidgetIds": [
+        "widget_4"
+      ]
+    },
+    "widget_55": {
+      "uri": "widgets/common/controller/",
+      "version": "1.16.0",
+      "label": "Controlador de widget",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "openStarts": [],
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {}
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": true,
+          "card": {
+            "showLabel": false,
+            "labelGrowth": 10,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "circle"
+            },
+            "variant": {
+              "default": {},
+              "active": {},
+              "hover": {}
+            }
+          }
+        }
+      },
+      "id": "widget_55",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_34"
+        }
+      }
+    },
+    "widget_56": {
+      "uri": "widgets/common/share/",
+      "version": "1.16.0",
+      "offPanel": true,
+      "label": "Compartir",
+      "config": {
+        "uiMode": "POPUP",
+        "popup": {
+          "icon": "",
+          "items": [
+            {
+              "id": "embed",
+              "enable": true
+            },
+            {
+              "id": "qrcode",
+              "enable": true
+            },
+            {
+              "id": "email",
+              "enable": true
+            },
+            {
+              "id": "facebook",
+              "enable": true
+            },
+            {
+              "id": "twitter",
+              "enable": true
+            },
+            {
+              "id": "pinterest",
+              "enable": true
+            },
+            {
+              "id": "linkedin",
+              "enable": true
+            }
+          ],
+          "tooltip": ""
+        },
+        "inline": {
+          "items": [
+            {
+              "id": "facebook",
+              "enable": true
+            },
+            {
+              "id": "twitter",
+              "enable": true
+            },
+            {
+              "id": "pinterest",
+              "enable": true
+            },
+            {
+              "id": "linkedin",
+              "enable": true
+            },
+            {
+              "id": "embed",
+              "enable": true
+            },
+            {
+              "id": "qrcode",
+              "enable": true
+            },
+            {
+              "id": "email",
+              "enable": true
+            },
+            {
+              "id": "sharelink",
+              "enable": true
+            }
+          ],
+          "design": {
+            "direction": "HORIZONTAL",
+            "hideLabel": false,
+            "btnRad": 0,
+            "btnColor": "",
+            "iconColor": "",
+            "size": "default",
+            "labelColor": "var(--dark)"
+          }
+        }
+      },
+      "id": "widget_56"
+    },
+    "widget_57": {
+      "uri": "widgets/common/search/",
+      "version": "1.16.0",
+      "offPanel": true,
+      "label": "Buscar",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style3",
+        "searchResultStyle": "Classic",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 6,
+        "enableFiltering": false,
+        "sourceType": "MapCentric",
+        "dataSourceConfigWithMapCentric": {
+          "widget_4-dataSource_4": null
+        },
+        "datasourceConfig": [],
+        "isAutoSelectFirstResult": true
+      },
+      "id": "widget_57",
+      "useMapWidgetIds": [
+        "widget_4"
+      ],
+      "useUtilities": []
+    },
+    "widget_58": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 9",
+      "config": {
+        "placeholder": "<h1>Haga doble clic para editar texto</h1>",
+        "text": "<h1 style=\"text-align: center;\"><strong style=\"color: rgb(245, 232, 199);\">DarkSky</strong></h1>"
+      },
+      "id": "widget_58"
+    },
+    "widget_59": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"m11 0 5 5-5 5V7c-5 0-6 2.5-7 5.5C3 9 3 3 11 3zM2 4h2V2H2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4h-2v4H2z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "filename": "Compartir",
+                "color": "var(--dark-800)",
+                "originalName": "filled/editor/share-arrow-curve.svg",
+                "path": [
+                  "general",
+                  "share"
+                ],
+                "isUploaded": false,
+                "inlineSvg": true
+              }
+            },
+            "position": "LEFT"
+          },
+          "text": "El Tiempo",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_10",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#000000"
+              },
+              "background": {
+                "color": "#f5e8c7",
+                "fillType": "fill"
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "2px",
+                "spread": "2px",
+                "color": "#363062"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_59"
+    },
+    "widget_60": {
+      "uri": "widgets/common/embed/",
+      "version": "1.16.0",
+      "label": "Aemet",
+      "config": {
+        "embedType": "url",
+        "expression": "<p>https://saraaacanoo.github.io/aemetApp/</p>",
+        "enableLabel": false
+      },
+      "id": "widget_60",
+      "useDataSources": []
+    },
+    "widget_61": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón 2",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"m11 0 5 5-5 5V7c-5 0-6 2.5-7 5.5C3 9 3 3 11 3zM2 4h2V2H2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4h-2v4H2z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "filename": "Compartir",
+                "color": "var(--dark-800)",
+                "originalName": "filled/editor/share-arrow-curve.svg",
+                "path": [
+                  "general",
+                  "share"
+                ],
+                "isUploaded": false,
+                "inlineSvg": true
+              }
+            },
+            "position": "LEFT"
+          },
+          "text": "Reseñas",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_20",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#000000"
+              },
+              "background": {
+                "color": "#f5e8c7",
+                "fillType": "fill"
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "2px",
+                "spread": "2px",
+                "color": "#363062"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_61"
+    },
+    "widget_67": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón 3",
+      "config": {
+        "functionConfig": {
+          "icon": {
+            "data": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"m11 0 5 5-5 5V7c-5 0-6 2.5-7 5.5C3 9 3 3 11 3zM2 4h2V2H2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4h-2v4H2z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "filename": "Compartir",
+                "color": "var(--dark-800)",
+                "originalName": "filled/editor/share-arrow-curve.svg",
+                "path": [
+                  "general",
+                  "share"
+                ],
+                "isUploaded": false,
+                "inlineSvg": true
+              }
+            },
+            "position": "LEFT"
+          },
+          "text": "Guía",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_22",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#000000"
+              },
+              "background": {
+                "color": "#f5e8c7",
+                "fillType": "fill"
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "2px",
+                "spread": "2px",
+                "color": "#363062"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_67"
+    },
+    "widget_68": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón 4",
+      "config": {
+        "functionConfig": {
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_21",
+            "openType": "_self"
+          },
+          "text": "App",
+          "textExpression": null,
+          "icon": {
+            "data": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"m11 0 5 5-5 5V7c-5 0-6 2.5-7 5.5C3 9 3 3 11 3zM2 4h2V2H2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4h-2v4H2z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "filename": "Compartir",
+                "color": "var(--dark-800)",
+                "originalName": "filled/editor/share-arrow-curve.svg",
+                "path": [
+                  "general",
+                  "share"
+                ],
+                "isUploaded": false,
+                "inlineSvg": true
+              }
+            },
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#000000"
+              },
+              "background": {
+                "color": "#f5e8c7",
+                "fillType": "fill"
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "2px",
+                "spread": "2px",
+                "color": "#363062"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_68"
+    },
+    "widget_69": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.16.0",
+      "label": "Mapa 2",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": true,
+        "initialMapDataSourceID": "dataSource_5",
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 4622324.434309,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": -702761.1049845357,
+              "y": 4778690.63818876
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -947971.0917233159,
+            "ymin": 4534092.147676261,
+            "xmax": -457551.1182457555,
+            "ymax": 5023289.128701258
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "scaleRange": null
+      },
+      "id": "widget_69",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_42"
+        }
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_5",
+          "mainDataSourceId": "dataSource_5"
+        }
+      ]
+    },
+    "widget_70": {
+      "uri": "widgets/common/table/",
+      "version": "1.16.0",
+      "label": "Tabla",
+      "config": {
+        "layersConfig": [],
+        "mapViewsConfig": null,
+        "tableMode": "MAP",
+        "enableMapExtentFilter": true,
+        "defaultExtentFilterEnabled": false,
+        "arrangeType": "TABS"
+      },
+      "id": "widget_70",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_69"
+      ]
+    },
+    "widget_71": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Contacto",
+      "config": {
+        "functionConfig": {
+          "text": "Contacto",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "DIALOG",
+            "value": "dialog_6"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true,
+                "color": "#f5e8c7",
+                "size": "20px"
+              },
+              "background": {
+                "color": "#435585",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_71"
+    },
+    "widget_72": {
+      "uri": "widgets/common/text/",
+      "version": "1.16.0",
+      "label": "Texto 10",
+      "config": {
+        "text": "<h4 style=\"text-align: center;\"><strong>¿Necesitas ayuda? Estamos aquí para ti</strong></h4><p style=\"text-align: center;\"><br></p><p>Queremos que disfrutes de la mejor experiencia con nuestras apps, pero si en algún momento tienes <strong>algún problema, duda o sugerencia</strong>, nuestro equipo de soporte está listo para ayudarte.</p><p><br></p><h4><strong>Puedes contactarnos:</strong></h4><p><strong>Correo electrónico</strong>: Envíanos un mensaje a <u style=\"color: rgb(245, 232, 199);\">darkskypfm@gmail.com</u> y te responderemos lo antes posible.</p><p><br></p><p><br></p><p>Tu experiencia bajo las estrellas es nuestra prioridad. No dudes en escribirnos y estaremos encantados de ayudarte.</p>",
+        "placeholder": "Haga doble clic para editar texto"
+      },
+      "id": "widget_72"
+    },
+    "widget_73": {
+      "uri": "widgets/common/embed/",
+      "version": "1.16.0",
+      "label": "Integrar",
+      "config": {
+        "embedType": "url",
+        "expression": "<p>https://saraaacanoo.github.io/Guia/</p>",
+        "enableLabel": false
+      },
+      "id": "widget_73",
+      "useDataSources": []
+    },
+    "widget_75": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.16.0",
+      "label": "Mapa 3",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 2311162.2171545,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": -688895.8390899183,
+              "y": 4754006.677701323
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -806608.8626490585,
+            "ymin": 4622534.989050855,
+            "xmax": -571182.8155307781,
+            "ymax": 4885478.366351792
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "initialMapDataSourceID": "dataSource_6",
+        "scaleRange": null
+      },
+      "id": "widget_75",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_44"
+        }
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6",
+          "mainDataSourceId": "dataSource_6"
+        }
+      ]
+    },
+    "widget_78": {
+      "uri": "widgets/arcgis/analysis/",
+      "version": "1.16.0",
+      "label": "Análisis",
+      "config": {
+        "toolList": [
+          {
+            "id": "76f28810-1484-11f0-9e70-c164472033d9",
+            "type": "custom",
+            "toolName": "SkyAPI_Free",
+            "analysisEngine": "standard",
+            "config": {
+              "toolInfo": {
+                "webToolItemId": "87123b3bc9944c22bf921560b9886155",
+                "name": "SkyAPI_Free",
+                "displayName": "SkyAPI_Free",
+                "description": "Esta Web Tool tiene como finalidad mostrar una valoración en función de la ubicación dada por el usuario.",
+                "category": "",
+                "executionType": "esriExecutionTypeAsynchronous",
+                "helpUrl": "https://www.arcgis.com/home/item.html?id=87123b3bc9944c22bf921560b9886155",
+                "tags": [
+                  "Geoprocessing Service"
+                ],
+                "parameters": [
+                  {
+                    "name": "punto_usuario",
+                    "displayName": "Punto",
+                    "description": "Selección mediante un punto del que quieres comprobar la idoneidad",
+                    "parameterType": "esriGPParameterTypeRequired",
+                    "defaultValue": {
+                      "geometryType": "esriGeometryPoint",
+                      "spatialReference": {
+                        "wkid": 4326
+                      },
+                      "fields": [
+                        {
+                          "name": "id",
+                          "type": "esriFieldTypeOID",
+                          "alias": "ID"
+                        }
+                      ],
+                      "features": [
+                        {
+                          "geometry": {
+                            "x": 39,
+                            "y": -6,
+                            "spatialReference": {
+                              "wkid": 4326
+                            }
+                          },
+                          "attributes": {
+                            "id": 0
+                          }
+                        }
+                      ]
+                    },
+                    "dataType": "GPFeatureRecordSetLayer",
+                    "category": "",
+                    "direction": "esriGPParameterDirectionInput",
+                    "selectFromMapLayer": true
+                  },
+                  {
+                    "name": "salida",
+                    "displayName": "Valoración",
+                    "description": "Resultado de la valoración del punto seleccionado por el usuario",
+                    "parameterType": "esriGPParameterTypeRequired",
+                    "defaultValue": "Buena elección",
+                    "dataType": "GPString",
+                    "category": "",
+                    "direction": "esriGPParameterDirectionOutput"
+                  }
+                ]
+              },
+              "utility": {
+                "utilityId": "utility_4",
+                "task": "SkyAPI_Free"
+              },
+              "toolUrl": "https://notebookswebtools8.arcgis.com/arcgis/rest/services/87123b3bc9944c22bf921560b9886155/GPServer/SkyAPI_Free",
+              "output": {
+                "ignored": {},
+                "allowExport": {},
+                "decimalPlace": {},
+                "dateFormat": {},
+                "timeFormat": {},
+                "addResultLayersToMapAuto": {}
+              },
+              "option": {
+                "showHelpLink": true,
+                "link": "https://www.arcgis.com/home/item.html?id=87123b3bc9944c22bf921560b9886155"
+              }
+            }
+          }
+        ]
+      },
+      "id": "widget_78",
+      "useMapWidgetIds": [
+        "widget_75"
+      ],
+      "useUtilities": [
+        {
+          "utilityId": "utility_4",
+          "task": "SkyAPI_Free"
+        }
+      ]
+    },
+    "widget_80": {
+      "uri": "widgets/common/button/",
+      "version": "1.16.0",
+      "label": "Botón 5",
+      "config": {
+        "functionConfig": {
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://esrimastergis.maps.arcgis.com/sharing/rest/content/items/d0b5be2a71374d6bb6d02eead4a50955/data",
+            "expression": null
+          },
+          "text": "Accede a la encuesta",
+          "textExpression": null,
+          "icon": {
+            "data": {
+              "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"m11 0 5 5-5 5V7c-5 0-6 2.5-7 5.5C3 9 3 3 11 3zM2 4h2V2H2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4h-2v4H2z\" clip-rule=\"evenodd\"></path></svg>",
+              "properties": {
+                "filename": "Compartir",
+                "color": "var(--dark-800)",
+                "originalName": "filled/editor/share-arrow-curve.svg",
+                "path": [
+                  "general",
+                  "share"
+                ],
+                "isUploaded": false,
+                "inlineSvg": true
+              }
+            },
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          },
+          "useCustom": true,
+          "customStyle": {
+            "hover": {},
+            "regular": {
+              "text": {
+                "bold": true
+              },
+              "background": {
+                "color": "#818fb4",
+                "fillType": "fill"
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_80"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {
+    "dialog_1": {
+      "id": "dialog_1",
+      "mode": "ANCHORED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "width": "834px",
+          "height": "594px"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "#818fb4",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": null,
+      "layout": {
+        "LARGE": "layout_25"
+      },
+      "index": 0,
+      "isSplash": false,
+      "border": {
+        "color": "var(--light-300)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "label": "Turismo Astronómico",
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      }
+    },
+    "dialog_3": {
+      "id": "dialog_3",
+      "mode": "ANCHORED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "width": "614px",
+          "height": "617px"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "#818fb4",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": null,
+      "layout": {
+        "LARGE": "layout_31"
+      },
+      "index": 1,
+      "isSplash": false,
+      "border": {
+        "color": "var(--light-300)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "label": "Guía",
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      }
+    },
+    "dialog_4": {
+      "id": "dialog_4",
+      "mode": "ANCHORED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "width": "601px",
+          "height": "632px"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "#818fb4",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": null,
+      "layout": {
+        "LARGE": "layout_32"
+      },
+      "index": 2,
+      "isSplash": false,
+      "border": {
+        "color": "var(--light-300)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "label": "El Tiemplo",
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      }
+    },
+    "dialog_5": {
+      "id": "dialog_5",
+      "mode": "ANCHORED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "width": "582px",
+          "height": "633px"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "#818fb4",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": null,
+      "layout": {
+        "LARGE": "layout_33"
+      },
+      "index": 3,
+      "isSplash": false,
+      "border": {
+        "color": "var(--light-300)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "label": "App",
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      }
+    },
+    "dialog_6": {
+      "id": "dialog_6",
+      "mode": "ANCHORED",
+      "blockPage": true,
+      "sizeMode": {
+        "LARGE": {
+          "width": "327px",
+          "height": "400px"
+        }
+      },
+      "interactionType": null,
+      "interactionStyles": null,
+      "confirmBeforeClose": true,
+      "alwaysShowConfirmation": false,
+      "dialogBackground": {
+        "color": "#435585",
+        "fillType": "fill",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": null,
+      "layout": {
+        "LARGE": "layout_43"
+      },
+      "index": 4,
+      "isSplash": false,
+      "border": {
+        "color": "var(--light-300)",
+        "type": "solid",
+        "width": "2px"
+      },
+      "label": "Contacto",
+      "closeWhenClickOverlay": true,
+      "effect": {
+        "type": "NONE",
+        "option": {
+          "direction": null
+        }
+      }
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_4": {
+      "id": "messageConfig_4",
+      "widgetId": "widget_20",
+      "messageType": "BUTTON_CLICK",
+      "actions": []
+    },
+    "messageConfig_5": {
+      "id": "messageConfig_5",
+      "widgetId": "widget_57",
+      "messageType": "DATA_RECORD_SET_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_4-showOnMap-1743099761128_for_search_map_centric",
+          "widgetId": "widget_4",
+          "messageWidgetId": "widget_57",
+          "actionName": "showOnMap",
+          "description": null,
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1
+                }
+              }
+            },
+            "isOperationalLayer": true
+          },
+          "version": "1.16.0"
+        }
+      ]
+    },
+    "messageConfig_6": {
+      "id": "messageConfig_6",
+      "widgetId": "widget_57",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_4-zoomToFeature-1743099761131_for_search_map_centric",
+          "widgetId": "widget_4",
+          "messageWidgetId": "widget_57",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": null,
+            "useDataSources": [],
+            "goToInitialMapExtentWhenSelectionCleared": false,
+            "useAnyTriggerData": true
+          },
+          "version": "1.16.0"
+        }
+      ]
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://esrimastergis.maps.arcgis.com"
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": null,
+      "link": null
+    }
+  },
+  "dataSources": {
+    "dataSource_4": {
+      "id": "dataSource_4",
+      "type": "WEB_MAP",
+      "sourceLabel": "Mapa Contaminación Lumínica Extremadura",
+      "itemId": "985d7b00b5d5494a9edd836079c3f54c",
+      "portalUrl": "https://esrimastergis.maps.arcgis.com"
+    },
+    "dataSource_5": {
+      "id": "dataSource_5",
+      "type": "WEB_MAP",
+      "sourceLabel": "Resultados Survey",
+      "itemId": "46b07e1b610f49c48e256f9678094a3f",
+      "portalUrl": "https://esrimastergis.maps.arcgis.com"
+    },
+    "dataSource_6": {
+      "id": "dataSource_6",
+      "type": "WEB_MAP",
+      "sourceLabel": "Extremadura",
+      "itemId": "0d97bdc52ee84ba99ea8958109c39e75",
+      "portalUrl": "https://esrimastergis.maps.arcgis.com"
+    }
+  },
+  "originExbVersion": "1.16.0",
+  "pageStructure": [
+    {
+      "page_2": []
+    },
+    {
+      "page_10": []
+    },
+    {
+      "page_20": []
+    },
+    {
+      "page_21": []
+    },
+    {
+      "page_22": []
+    }
+  ],
+  "timestamp": 1744185859532,
+  "header": {
+    "layout": {
+      "LARGE": "layout_15"
+    },
+    "height": {
+      "LARGE": 75
+    },
+    "backgroundColor": "#363062"
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_16"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "customTheme": {},
+  "utilities": {
+    "utility_1": {
+      "id": "utility_1",
+      "type": "ROUTING",
+      "name": "route",
+      "label": "Ruta",
+      "url": "https://pcfor02.esri.es/server/rest/services/RedMadrid/NAServer/Route",
+      "source": "org"
+    },
+    "utility_2": {
+      "id": "utility_2",
+      "type": "GEOCODING",
+      "name": "geocode",
+      "label": "Servicio de geocodificación mundial de ArcGIS",
+      "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "source": "org",
+      "orgSetting": {
+        "northLat": "Ymax",
+        "southLat": "Ymin",
+        "eastLon": "Xmax",
+        "westLon": "Xmin",
+        "name": "Servicio de geocodificación mundial de ArcGIS",
+        "batch": true,
+        "suggest": true,
+        "placefinding": true,
+        "zoomScale": 10000
+      },
+      "taskName": "Servicio de geocodificación mundial de ArcGIS",
+      "index": 0
+    },
+    "utility_4": {
+      "id": "utility_4",
+      "type": "GPSERVER",
+      "source": "custom",
+      "url": "https://notebookswebtools8.arcgis.com/arcgis/rest/services/87123b3bc9944c22bf921560b9886155/GPServer",
+      "label": "87123b3bc9944c22bf921560b9886155",
+      "tasks": [
+        {
+          "name": "SkyAPI_Free"
+        }
+      ]
+    }
+  }
+}

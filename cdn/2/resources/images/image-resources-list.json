@@ -1,0 +1,58 @@
+{
+  "1743093663218": {
+    "originalName": "52382684176_af06d7e083_o.jpg",
+    "fileName": "1743093663218.jpg",
+    "size": 10285937,
+    "url": "${appResourceUrl}/images/widget_21/1743093663218.jpg",
+    "created": 1743093663218,
+    "resourcesPrefix": "images/widget_21",
+    "referredIds": [],
+    "originId": "1743093663218",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 3537,
+    "originalHeight": 4951
+  },
+  "1743096137313": {
+    "originalName": "alexandra-salvado-WJ-H_ewjcU4-unsplash.jpg",
+    "fileName": "1743096137313.jpg",
+    "size": 3932741,
+    "url": "${appResourceUrl}/images/widget_38/1743096137313.jpg",
+    "created": 1743096137313,
+    "resourcesPrefix": "images/widget_38",
+    "referredIds": [],
+    "originId": "1743096137313",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 4018,
+    "originalHeight": 6027
+  },
+  "1743098045034": {
+    "originalName": "49712169226_a842dff39a_k.jpg",
+    "fileName": "1743098045034.jpg",
+    "size": 1452276,
+    "url": "${appResourceUrl}/images/widget_45/1743098045034.jpg",
+    "created": 1743098045034,
+    "resourcesPrefix": "images/widget_45",
+    "referredIds": [],
+    "originId": "1743098045034",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1638,
+    "originalHeight": 2048
+  },
+  "1743098738271": {
+    "originalName": "52052653002_1c47090cab_k.jpg",
+    "fileName": "1743098738271.jpg",
+    "size": 659167,
+    "url": "${appResourceUrl}/images/widget_49/1743098738271.jpg",
+    "created": 1743098738271,
+    "resourcesPrefix": "images/widget_49",
+    "referredIds": [],
+    "originId": "1743098738271",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1638,
+    "originalHeight": 2048
+  }
+}
